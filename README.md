@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jardel Nascimento</h1>
-<h3 align="center">A passionate data analysis from Brazil</h3>
+<h3 align="center">a brazilian passionate about data analysis</h3>
 
 - 🔭 I’m currently working on Uze Cartões **Data Squad**
 
